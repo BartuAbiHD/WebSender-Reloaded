@@ -1,0 +1,4 @@
+name: WebSender
+main: drawweb.bungeecord.BungeeMain
+version: 1.2
+author: DrawWEB
